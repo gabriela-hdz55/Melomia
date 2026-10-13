@@ -1,6 +1,6 @@
-# TINY README Template
+# Melomia
 
-Put a brief description of the project here, and optionally include a screenshot with a nice frame:
+Melomia is a browser-based game that lets users test their knowledge on the lyrics of their favorite songs.
 
 <div align="center">
   <kbd>
@@ -12,6 +12,7 @@ Put a brief description of the project here, and optionally include a screenshot
 
 Longer description explaining the rationale/intent behind the project, what it's good for, and how it works. If the next two subsections are short enough, they can be merged up into this block—perhaps as bulleted lists.
 
+
 ### Features
 
 - It's TINY. A short README is a good README.
@@ -19,7 +20,10 @@ Longer description explaining the rationale/intent behind the project, what it's
 
 ### Built with
 
-- Markdown
+- React
+- Vite
+- JavaScript
+- Lyrica - a Python/Flask based REST API
 - Love
 
 ## Getting started
